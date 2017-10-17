@@ -6,3 +6,4 @@ https://kodaktor.ru/g/web14092017
 https://www.webpackbin.com/bins/-KuxQ-8QBfzn-vBI2Yzo выполнил задание от 26 сентября.
 ссылку на ответ помещайте в README.MD своего репозитория
 
+Анимация шарика - https://repl.it/MkX5
